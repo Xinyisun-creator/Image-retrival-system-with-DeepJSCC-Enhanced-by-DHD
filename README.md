@@ -11,3 +11,5 @@ The experiments were conducted using the following software packages:
 - NumPy 1.24.3
 
 The best result could be get from 10dB SNR with 0.06 hyperparameter in new-configured loss.
+
+![Draft](https://github.com/user-attachments/assets/399aaef9-c224-41db-813b-6006f43085f9)
